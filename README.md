@@ -1,4 +1,4 @@
-# AiVRIC Terraform Scan Test Repository
+# Terraform Scan Test Repository
 
 This repository contains intentionally insecure Terraform configurations used to test Infrastructure-as-Code (IaC) security scanners.
 
